@@ -1,0 +1,12 @@
+D:\Projects\AsyncExample\AsyncExample\bin\Debug\AsyncExample.exe.config
+D:\Projects\AsyncExample\AsyncExample\obj\Debug\AsyncExample.exe
+D:\Projects\AsyncExample\AsyncExample\obj\Debug\AsyncExample.pdb
+D:\Projects\AsynExampleNew\AsyncExample\bin\Debug\AsyncExample.exe.config
+D:\Projects\AsynExampleNew\AsyncExample\obj\Debug\AsyncExample.exe
+D:\Projects\AsynExampleNew\AsyncExample\obj\Debug\AsyncExample.pdb
+D:\Projects\AsynExampleNew\AsyncExample\bin\Debug\AsyncExample.exe
+D:\Projects\AsynExampleNew\AsyncExample\bin\Debug\AsyncExample.pdb
+D:\Projects\AsynExampleNew\AsyncExample\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\AsynExampleNew\AsyncExample\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\AsynExampleNew\AsyncExample\obj\Debug\AsyncExample.Console.csprojResolveAssemblyReference.cache
+D:\Projects\AsynExampleNew\AsyncExample\obj\Debug\AsyncExample.Console.csproj.AsyncExample.exe.config
